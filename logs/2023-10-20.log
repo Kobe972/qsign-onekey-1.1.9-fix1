@@ -1,0 +1,3 @@
+[2023-10-20 16:41:15] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-10-20 16:41:26] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-20 16:41:49] [WARNING]: 检查更新失败！ 

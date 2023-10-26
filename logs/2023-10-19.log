@@ -1,0 +1,8 @@
+[2023-10-19 00:05:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 00:45:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 01:25:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 02:05:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 02:45:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 03:25:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 04:05:03] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-19 04:45:04] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 

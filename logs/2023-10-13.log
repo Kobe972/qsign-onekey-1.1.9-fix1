@@ -1,0 +1,48 @@
+[2023-10-13 00:04:43] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 00:38:50] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-10-13 00:38:55] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-10-13 00:44:43] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 01:24:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 01:48:26] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-10-13 01:48:32] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-10-13 02:04:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 02:44:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 03:24:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 04:04:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 04:44:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 05:24:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 06:04:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 06:44:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 07:24:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 08:04:44] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 08:44:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 09:22:11] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-10-13 09:22:15] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-10-13 09:22:16] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-10-13 09:22:21] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-10-13 09:22:57] [ERROR]: Protocol -> sendPacket msg error: 120  
+[2023-10-13 09:23:02] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-10-13 09:24:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 10:04:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 10:27:59] [WARNING]: 群消息发送失败: 信息为空. 
+[2023-10-13 10:44:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 11:24:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 12:04:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 12:44:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 13:24:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 14:04:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 14:44:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 15:24:45] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 16:04:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 16:44:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 16:47:54] [WARNING]: 转换消息 [CQ:record,file=https://pic3.zhimg.com/80/v2-4d5aaba6d7c32849815c4fb5f54c2722_1440w.webp] 到MiraiGo Element时出现错误: voice type error: image/webp. 
+[2023-10-13 17:24:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 18:04:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 18:44:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 19:24:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 20:04:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 20:44:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 21:24:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 22:04:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 22:44:46] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
+[2023-10-13 23:24:47] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:13579 
